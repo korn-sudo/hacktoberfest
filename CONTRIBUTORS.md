@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: [Korn-sudo](https://github.com/korn-sudo)
+- Place: Manila, Philippines
+- Bio: Marketing
+- Github: [Korn-sudo](https://github.com/korn-sudo)
